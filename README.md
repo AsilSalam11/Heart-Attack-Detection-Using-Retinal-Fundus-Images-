@@ -133,14 +133,3 @@ image_003.jpg        Medium Risk
 
 ---
 
-## 👨‍💻 Author
-
-**Asil Abdul Salam**  
-[GitHub](https://github.com/your-username)  
-[LinkedIn](https://linkedin.com/in/your-profile)  
-📬 Email: your.email@example.com
-
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
